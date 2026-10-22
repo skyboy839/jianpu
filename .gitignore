@@ -1,0 +1,15 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# 本地工作区数据（不入库）
+.workbuddy/
+
+# 技能运行时产物：这些文件在使用者自己的项目里生成，不属于本仓库
+/design-spec.md
+/brand-spec.md
+/appearance-ledger.json

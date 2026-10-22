@@ -1,0 +1,2 @@
+# 仓库内统一存 LF，检出时统一 LF（全平台一致）
+* text=auto eol=lf
